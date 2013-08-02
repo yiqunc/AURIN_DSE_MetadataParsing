@@ -1,0 +1,13 @@
+install Psycopg 2.5.1 on Mac OSX
+(1) double check if "command line tools" in Xcode->Preference->downloads is installed.
+(2) open Terminal, execute "sudo easy_install psycopg2"
+
+
+# # # # # # # # # # # # # # # # #
+# ref: http://www.crummy.com/software/BeautifulSoup/bs4/doc/
+# install beautifulsoup
+# sudo python setup.py
+# install beautifulsoup dependency libs on Mac
+# sudo easy_install lxml
+# sudo easy_install html5lib
+# # # # # # # # # # # # # # # # # # #
